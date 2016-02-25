@@ -17,7 +17,7 @@ position: 0
 ## 
 ![cloudupload overview](images/cloudupload_wpf_46_text.png)
 
-The __RadCouldUpload__ control can be used in scenarios when our customers need to allow their users to upload files to a cloud storage provider. This control can be configured to upload files to different storage providers.
+The __RadCloudUpload__ control can be used in scenarios when our customers need to allow their users to upload files to a cloud storage provider. This control can be configured to upload files to different storage providers.
         
 
 This is a list with short description of the top-of-the-line features of Telerik's __RadCloudUpload__ control for WPF
